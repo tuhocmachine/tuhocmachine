@@ -25,8 +25,8 @@
 <!-- email -->
 **✉️ Email:** tuhocmachine@gmail.com
 
-[![Twitter: tuhocmachine](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/tuhocmachine)
-[![GitHub: tuhocmachine](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/tuhocmachine)
+[![Twitter: tuhocmachine](https://img.shields.io/twitter/follow/tuhocmachine?style=social)](https://twitter.com/tuhocmachine)
+[![GitHub: tuhocmachine](https://img.shields.io/github/followers/tuhocmachine?label=follow&style=social)](https://github.com/tuhocmachine)
 
 <!-- ngôn ngữ đã học -->
 **Learned Languages and Frameworks:**
