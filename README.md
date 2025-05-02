@@ -16,17 +16,12 @@
   <img align="left" alt="tuhocmachine's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/tuhocmachine">
-  <img align="left" alt="NTKhang's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="tuhocmachine's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br/>
 <br/>
 
-## 📫 How to reach me:
-
-| Facebook | Telegram | Twitter | Youtube | 
-| :---: | :---: | :---: | :---: |
-| [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/100010382497517/) <p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/ntkhang03) <p><b><a href="https://t.me/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/ntkhang03) <p><b><a href="https://twitter.com/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/NTKhang03) <p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a><b></p>  |
 <!-- email -->
 **✉️ Email:** tuhocmachine@gmail.com
 
@@ -63,10 +58,3 @@
   <br>
   <br>
 
-  <a href="https://github.com/fb-chat-api/fb-chat-api">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fb-chat-api&repo=fb-chat-api&theme=github_dark" style="margin-top: 10px;"/>
-  </a>
-  <a href="https://github.com/ntkhang03/Goat-Bot">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuhocmachine&repo=Goat-Bot-V2&theme=github_dark" style="margin-top: 10px;"/>
-  </a>
-</p>
