@@ -1,9 +1,9 @@
 ## Hola, I'm [Tran Tien!](https://www.facebook.com/profile.php?id=61571046901047) 👋
 <h3 align="center">I am a student and developer from Vietnam.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhocmachine&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhocmachine&label=Views&color=blue&style=plastic" alt="tuhocmachine" /> </p>
 
-<a href="https://twitter.com/ntkhang03">
+<a href="https://twitter.com/tuhocmachine">
   <img align="left" alt="tuhocmachine's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://github.com/tuhocmachine">
