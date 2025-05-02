@@ -1,21 +1,21 @@
-## Hola, I'm [NTKhang!](https://www.facebook.com/ntkhang03) 👋
+## Hola, I'm [Tran Tien!](https://www.facebook.com/profile.php?id=61571046901047) 👋
 <h3 align="center">I am a student and developer from Vietnam.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ntkhang03&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhocmachine&label=Views&color=blue&style=plastic" alt="ntkhang" /> </p>
 
 <a href="https://twitter.com/ntkhang03">
-  <img align="left" alt="NTKhang's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+  <img align="left" alt="tuhocmachine's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
-<a href="https://github.com/ntkhang03">
-  <img align="left" alt="NTKhang's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/tuhocmachine">
+  <img align="left" alt="tuhocmachine's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/nthanhkhang2003">
-  <img align="left" alt="NTKhang's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://instagram.com/tuhocmachine">
+  <img align="left" alt="tuhocmachine's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/ntkhang03">
-  <img align="left" alt="NTKhang's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/tuhocmachine">
+  <img align="left" alt="tuhocmachine's Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/ntkhang03">
+<a href="https://www.youtube.com/tuhocmachine">
   <img align="left" alt="NTKhang's Youtube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -28,10 +28,10 @@
 | :---: | :---: | :---: | :---: |
 | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-fb.svg)](https://www.facebook.com/100010382497517/) <p><b><a href="https://www.facebook.com/100010382497517/">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tele.svg)](https://t.me/ntkhang03) <p><b><a href="https://t.me/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-tw.svg)](https://twitter.com/ntkhang03) <p><b><a href="https://twitter.com/ntkhang03">NTKhang03</a><b></p> | [![image](https://raw.githubusercontent.com/ntkhang03/ntkhang03/main/sources/qr-ytb.svg)](https://www.youtube.com/c/NTKhang03) <p><b><a href="https://www.youtube.com/c/NTKhang03">NTKhang03</a><b></p>  |
 <!-- email -->
-**✉️ Email:** nthanhkhang2003@gmail.com
+**✉️ Email:** tuhocmachine@gmail.com
 
-[![Twitter: ntkhang03](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/ntkhang03)
-[![GitHub: ntkhang03](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/ntkhang03)
+[![Twitter: tuhocmachine](https://img.shields.io/twitter/follow/ntkhang03?style=social)](https://twitter.com/tuhocmachine)
+[![GitHub: tuhocmachine](https://img.shields.io/github/followers/ntkhang03?label=follow&style=social)](https://github.com/tuhocmachine)
 
 <!-- ngôn ngữ đã học -->
 **Learned Languages and Frameworks:**
@@ -47,18 +47,18 @@
 
 ## 📶 Github Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ntkhang03">
+  <img src="https://github-profile-trophy.vercel.app/?username=tuhocmachine">
   <br>
   <br>
   
-  <a href="https://github.com/ntkhang03">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntkhang03&theme=blue-green" style="margin-top: 10px;"/>
+  <a href="https://github.com/tuhocmachine">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuhocmachine&theme=blue-green" style="margin-top: 10px;"/>
   </a>
   <br>
   <br>
   
-  <a href="https://github.com/ntkhang03">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ntkhang03&show_icons=true&theme=github_dark&line_height=27" alt="NTKhang's github stats" style="margin-top: 10px;"/>
+  <a href="https://github.com/tuhocmachine">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tuhocmachine&show_icons=true&theme=github_dark&line_height=27" alt="tuhocmachine's github stats" style="margin-top: 10px;"/>
   </a>
   <br>
   <br>
@@ -67,6 +67,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fb-chat-api&repo=fb-chat-api&theme=github_dark" style="margin-top: 10px;"/>
   </a>
   <a href="https://github.com/ntkhang03/Goat-Bot">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ntkhang03&repo=Goat-Bot-V2&theme=github_dark" style="margin-top: 10px;"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuhocmachine&repo=Goat-Bot-V2&theme=github_dark" style="margin-top: 10px;"/>
   </a>
 </p>
